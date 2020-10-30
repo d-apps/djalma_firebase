@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661063852492",
+    "firebase_url": "https://top-okame-p-songs.firebaseio.com",
+    "project_id": "top-okame-p-songs",
+    "storage_bucket": "top-okame-p-songs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661063852492:android:ef7784f09e293ac71a3d69",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661063852492-ljqbk6cn5d43o7u1l7jnl2stpauc8rap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyqfyWNNCyTKHcYV_BLAl_Er6mMh3S1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661063852492-ljqbk6cn5d43o7u1l7jnl2stpauc8rap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
